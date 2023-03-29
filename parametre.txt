@@ -1,0 +1,4 @@
+miroir 1
+temps_transition_min 0.01
+temps_transition_max 0.2
+temps_fixe 50
